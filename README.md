@@ -1,8 +1,8 @@
 # Spec-Agent: LLM-Driven Test Bench Analyst
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Architecture](https://img.shields.io/badge/Architecture-Agentic%20Workflow-purple)
-![Domain](https://img.shields.io/badge/Domain-Automotive%20Validation-orange)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Architecture](https://img.shields.io/badge/Architecture-Agentic%20Workflow-purple)](https://python.langchain.com/docs/concepts/#agents)
+[![Domain](https://img.shields.io/badge/Domain-Automotive%20Validation-orange)](https://newsroom.porsche.com/en/innovation.html)
 ![Status](https://img.shields.io/badge/Status-Prototype-success)
 
 > **Context:** Engineering Prototype for Automating Test Bench Validation via Generative AI & Process Analytics.
