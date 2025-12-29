@@ -1,4 +1,4 @@
-# Spec-Agent: LLM-Driven Test Bench Analyst
+# Spec-Agent: Agentic Prototype for Automated Test Bench Data Validation
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Agentic%20Workflow-purple)](https://python.langchain.com/docs/concepts/#agents)
@@ -45,6 +45,7 @@ The prototype simulates an **Agentic Workflow** typically orchestrated by framew
     *   `analyze_process_stability()`: Applies conditional logic to detect when the system leaves its valid operating window.
     *   `generate_visualization()`: Uses `matplotlib` to highlight the exact timeframe of the failure.
 3.  **Reporting:** Synthesizes the findings into a human-readable format.
+4.  **Software Maturity:** Separation of decision logic and visualization tools to reflect modular agent architectures used in industrial AI systems.
 
 ## 💻 How to Run
 To reproduce the analysis and generate the plot locally:
